@@ -6,4 +6,9 @@ p {
   font-family:sans-serif, georgia;
   border-style: solid;
   border-left-style:hidden;
+  border-top-width:19px;
+  border-bottom-right-radius:220px;
+  border-bottom-left-radius: 220px;
+  border-style:double;
+  border:5px double cyan;
 }
