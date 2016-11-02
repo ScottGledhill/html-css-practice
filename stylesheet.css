@@ -17,3 +17,11 @@ p {
   word-wrap:break-word;
   white-space:pre;
 }
+
+div p {
+  color:red
+}
+
+div div p {
+  text-decoration: underline;
+}
