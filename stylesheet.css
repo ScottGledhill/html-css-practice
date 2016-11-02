@@ -15,4 +15,5 @@ p {
   letter-spacing:5px;
   line-height:20px;
   word-wrap:break-word;
+  white-space:pre;
 }
