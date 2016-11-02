@@ -4,4 +4,6 @@ p {
   font-style:italic;
   font-weight:bold;
   font-family:sans-serif, georgia;
+  border-style: solid;
+  border-left-style:hidden;
 }
