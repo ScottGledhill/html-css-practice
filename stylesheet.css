@@ -11,4 +11,8 @@ p {
   border-bottom-left-radius: 220px;
   border-style:double;
   border:5px double cyan;
+  box-shadow:5px 10px black;
+  letter-spacing:5px;
+  line-height:20px;
+  word-wrap:break-word;
 }
